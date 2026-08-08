@@ -1,0 +1,115 @@
+{
+  "slug": "finance-studio",
+  "host": "finance",
+  "title": "Finance Studio",
+  "tagline": "Budgets, forecasts, billing and payroll",
+  "description": "Plan budgets, track expenses, and build financial models and forecasts. Manage cash flow, P&L, and balance sheet reporting, run payroll and vendor payments, set expense approval workflows, and monitor it all with dashboards and audit trails.",
+  "editors": [
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Budget Editor",
+      "desc": "Departmental and project budget planning"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Expense Tracker Editor",
+      "desc": "Expense entry and categorization"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Financial Model Editor",
+      "desc": "Revenue and cost projection modeling"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Forecast Editor",
+      "desc": "Financial forecasting and scenario planning"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Billing Plan Editor",
+      "desc": "Recurring billing and subscription pricing"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Cash Flow Editor",
+      "desc": "Cash flow statement and tracking"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "P&L Statement Editor",
+      "desc": "Profit and loss reporting"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Balance Sheet Editor",
+      "desc": "Asset/liability statement building"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Tax Planning Editor",
+      "desc": "Tax liability estimation and planning"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Payroll Editor",
+      "desc": "Salary and payroll calculation"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Expense Approval Editor",
+      "desc": "Expense approval workflow rules"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Purchase Order Editor",
+      "desc": "PO creation and approval"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Vendor Payment Editor",
+      "desc": "Vendor payment scheduling"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Reimbursement Editor",
+      "desc": "Employee reimbursement workflow"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Financial Dashboard Editor",
+      "desc": "Finance KPI dashboard building"
+    },
+    {
+      "category": "Finance & Planning Editors",
+      "name": "Audit Trail Editor",
+      "desc": "Financial transaction audit logging"
+    }
+  ],
+  "services": [
+    [
+      "finance",
+      "core"
+    ],
+    [
+      "ledger",
+      "new"
+    ],
+    [
+      "billing",
+      "core"
+    ],
+    [
+      "payment",
+      "core"
+    ],
+    [
+      "tax",
+      "new"
+    ],
+    [
+      "document",
+      "core"
+    ]
+  ]
+}
